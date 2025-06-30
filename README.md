@@ -1,5 +1,5 @@
 # 💫 About Me:
-😺 I’m currently working on Nexro  | A NestJS | Necord based Discord Bot<br>🐵 I’m looking to collaborate on Typescript and Rust Projects<br>🐒 I’m currently learning Elixir <br>🙈 Fun fact : To interact with one another, monkeys engage in grooming rituals. Just like barbershops
+😺 I’m currently working on Sepsis  | A Rust | Baremetal Kernel || OS <br>🐵 I’m looking to collaborate on Typescript and Rust Projects<br>🐒 I’m currently learning Elixir <br>🙈 Fun fact : To interact with one another, monkeys engage in grooming rituals. Just like barbershops
 
 
 ## 🌐 Socials:
